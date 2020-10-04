@@ -52,7 +52,7 @@
 
 <br>
 <br>
-
+<!--
 
 <a id="imagen-rotativo" href="#"></a>
   <a href="https://Tracking-all-traffic.offerdirecto.com?id=LGoRTd6m85&type=1&click_id={click_id}&sub1={sub1}&sub2={sub2}&sub3={sub3}&sub3={sub3}&source={source}"> <div class="iji" id="capa">
@@ -73,7 +73,7 @@
   <br>
   <br>  
 
-  
+  -->
   
   </center>
   
