@@ -47,7 +47,7 @@
  
    <a id="imagen-rotativo" href="#"></a>
   <a href="#"> <div class="iji" id="capa">
-    <img src="https://lh3.googleusercontent.com/fife/ABSRlIplWLCCnfvmraQAvwGttKMXwLGNP8T3frna5a6Brp2gaL8iy0o2fuoOC8o53HHEdWMoukyEm483avADBol9EGvjTxFMhy7f1Ot7P8Zpy-IOFCq8Np_srbaa4KB_McKlvheUSMzByPcWM-syvhtsVBVvsp3usgBqzBLffwIo6f8kwTeNPIyHB4t9t-1LzUCpIW3kEWPfV_1zSIgDNd14xOjXht1zxXU1h4D1K9NibytFu-M-rU2tLiPauzPaMMwdJ8BqKcOMEII7U3huaY5jxxnHYHVauTcq27_RS3l0STLY8wbjwAWC_2kTR__38HQcbyVdlno1dIqQYdfhGzVK-3LVkuh_v70QhhHzY3ppFUEfhknZ68WPBWrVH-CdwCOLxZJLde4g_VjQvoA2MxmFK8aOtsKrBLEgGTZS8jVvtpjMNVmIkNtPR4si4Pf-blzaZprCRLyn0U9lPXnyyYpnYEbPy1i2295MjUcPvO2s3qNHRRzEoDQ1aW5g9ipDK8fS5-hjSy6zp2lS15WsGyVPQ-uzJZYw4GsUVdc_O3EdXVytx_ebEh7OBpGaTXZMA4p_GNwhC1Madxbt9C-cwwlcYoyUFxOVVFngTuRe5mr1-oIk47Yg_eaeJjKBuXanQdOFW_5GdsO4_CD9yJk6M_cg4RSOqjpNU-65CJ_nb4wxKXpbp8VYtXNkBxjgageL2ewp98Q-E9YC6iYSUo7I7lc=s1083-w1083-h723-no?authuser=0&authuser=0"></div> </a>
+    <img src="https://photos.google.com/share/AF1QipP3JrTcXP13wUAumewSlco-YDcL-8mRrODIB3diQ5vF6EnPcJ1sMfXflNqiDof1Fg/photo/AF1QipMWjEjecS047jc0XBNzUiAZVn2GIpBYJ7F8rUWY?key=SmFRa0RzbzRuLWRjcXdXV0ZfaHhIVXktc0lBcUF3"></div> </a>
    
 
 
