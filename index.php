@@ -38,12 +38,12 @@
     <br>
     <h3 style="color: red;">Go to my free website to enjoy my live stream</h3>
     <br>
-   
+   <!-- 
     <a id="imagen-rotativo" href="#"></a>
     <a href="#"> <div class="iji" id="capa">
       <img src="https://lh3.googleusercontent.com/ODmkCQbZdCBrYienXvmJoG4GEbQvWgiELwIZ5iTQgQyXosE8hiyANXnDJO2Izu_sT_DyVOwarJL3C53frfh29AofIZZkEyMEO3UWxReAwdRha2MjWyuNXdGcd5fd6xO5jG-yZmuMbLWgxtbjSLXODrZ-kK18u7wFkzxULaboEYLLmS69ifo_3MAEA73B0DcNze6VBcJTGsC4piYQbacYBNhVMZLu3q5ik96-6g4EEZOJmqNmuE9yzsFHfirr6cxhGJNPMTkWIdauokku1DFbAAhCx5we3DGu5TWJH6nMLEr8BmyanIdQzy4VCKmTefxybaaoq_ccH0DdCnayMgeArbl5wxsWs-dWK3bZeumtSkXJRv4kupW6ukFkbvY0NT7f3MqTXFDzNtGbgXpYjVlyxV8T1ocnew8i4aSCStwfbIvrdr4yO-WLZH3E1knk5iikdnCHyjmW0WJFOiegInjtsFCyt6Yv0nWpQLxaEJlD3b3ixR7u0H2jPqTtyaVZkGU1eKbdIC5-LMsZkjOWNYBBYhaMT_Rnq7P0-nl3zZys0Fi2OWQwGQ3bBIDqD7-DsotM-QPH_9mO91AN-99TzwVMRCNrStzAyJKNUyxJJC7ZOUkQz1n_fiBhzkCxhSLXJtB3NAHUJvoIhYFkcRyPVkBdaVMCp6U90QP2CqMoUg_xDgzGhwm-ryq4RT_xQThOAw=w1083-h723-no?authuser=0"></div> </a>
     
-
+-->
  
   
 
@@ -52,7 +52,7 @@
 
 <br>
 <br>
-<!--
+
 
 <a id="imagen-rotativo" href="#"></a>
   <a href="https://Tracking-all-traffic.offerdirecto.com?id=LGoRTd6m85&type=1&click_id={click_id}&sub1={sub1}&sub2={sub2}&sub3={sub3}&sub3={sub3}&source={source}"> <div class="iji" id="capa">
@@ -73,7 +73,7 @@
   <br>
   <br>  
 
-  -->
+
   
   </center>
   
